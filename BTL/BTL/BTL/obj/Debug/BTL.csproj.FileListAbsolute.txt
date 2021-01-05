@@ -1,0 +1,192 @@
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.nhanvien.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.congviec.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.khachhang.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.nhacungcap.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.hoadonban.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.chitiethoadonban.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.hoadonnhap.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.chitiethoadonnhap.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.loai.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.kichthuoc.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.congdung.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.men.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.nuocsx.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.mausac.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.hinhkhoi.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.hoavan.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.hanghoa.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.timkiemsanpham.resources
+C:\Users\Admin\Desktop\lập trình trực quan\BTL\BTL\obj\Debug\BTL.timkiemhoadon.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.chitiethoadonban.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.chitiethoadonnhap.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.congdung.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.congviec.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.hanghoa.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.hinhkhoi.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.hoadonban.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.hoadonnhap.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.hoavan.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.khachhang.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.kichthuoc.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.loai.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.mausac.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.men.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.nhacungcap.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.nhanvien.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.nuocsx.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.timkiemhoadon.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.timkiemsanpham.resources
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\QUANG\Desktop\BTL\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.chitiethoadonban.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.chitiethoadonnhap.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.congdung.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.congviec.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.hanghoa.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.hinhkhoi.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.hoadonban.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.hoadonnhap.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.hoavan.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.khachhang.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.kichthuoc.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.loai.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.mausac.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.men.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.nhacungcap.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.nhanvien.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.nuocsx.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.timkiemhoadon.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.timkiemsanpham.resources
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\QUANG\Desktop\BàiTậpLớn\BTL\BTL\BTL\obj\Debug\BTL.Form2.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\BTL.exe
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\BTL.pdb
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.chitiethoadonban.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.chitiethoadonnhap.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.congdung.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.congviec.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.Form1.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.Form2.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.hanghoa.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.hinhkhoi.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.hoadonban.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.hoadonnhap.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.hoavan.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.khachhang.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.kichthuoc.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.loai.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.mausac.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.men.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.nhacungcap.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.nhanvien.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.nuocsx.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.timkiemhoadon.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.timkiemsanpham.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.exe
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.pdb
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.Shared.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\FlashControlV71.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\ShockwaveFlashObjects.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\bin\Debug\stdole.dll
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.FormIn.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.FTop5.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.FDShoadon.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.FBCnv.resources
+G:\New folder\BaiTapLớnNew1\BTL\BTL\BTL\obj\Debug\BTL.FBctheoquys.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\BTL.exe
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\BTL.pdb
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\ShockwaveFlashObjects.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\bin\Debug\stdole.dll
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.chitiethoadonban.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.chitiethoadonnhap.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.congdung.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.congviec.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.FBCnv.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.FBctheoquys.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.FDShoadon.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.Form1.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.Form2.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.FormIn.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.FTop5.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.hanghoa.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.hinhkhoi.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.hoadonban.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.hoadonnhap.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.hoavan.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.khachhang.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.kichthuoc.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.loai.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.mausac.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.men.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.nhacungcap.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.nhanvien.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.nuocsx.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.timkiemhoadon.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.timkiemsanpham.resources
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.exe
+G:\New folder\RARFOLDER\QUANLYGOMSU\BTL\BTL\BTL\obj\Debug\BTL.pdb
